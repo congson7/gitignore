@@ -9,3 +9,8 @@ alo
 # minh muon bo qua file abc.xyz nhung van giu myfile.xyz
 # se chi bo qua file .xyz trong git repo
 /*.xyz
+
+
+# minh chi muon bo qua file abc.xyz trong folder second_folder
+# Window su dung // hoac \ 
+second_folder/abc.txt
