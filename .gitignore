@@ -1,0 +1,7 @@
+
+# alo alo/ => Git khong theo doi thu muc alo
+
+alo
+
+# Loai bo tat ca cac file co duoi .log
+*.log 
