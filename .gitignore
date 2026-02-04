@@ -14,3 +14,5 @@ alo
 # minh chi muon bo qua file abc.xyz trong folder second_folder
 # Window su dung // hoac \ 
 second_folder/abc.txt
+
+second_folder\my.txt
