@@ -5,3 +5,7 @@ alo
 
 # Loai bo tat ca cac file co duoi .log
 *.log 
+
+# minh muon bo qua file abc.xyz nhung van giu myfile.xyz
+# se chi bo qua file .xyz trong git repo
+/*.xyz
